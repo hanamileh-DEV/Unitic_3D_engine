@@ -4,6 +4,6 @@
 If you have any questions or suggestions about
 the engine, please contact:
 
-Discord:  HanamileH#8604
+Discord:  @hanamileh
 Telegram: @HanamileH
 Gmail:    hanamileh@gmail.com
